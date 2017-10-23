@@ -1,0 +1,30 @@
+{
+  "name": "device-ui-test",
+  "version": "1.0.0",
+  "description": "Checks the device running your project and returns a score or low, medium or high depending on the ui perfomance capabilities of that device.",
+  "main": "module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EoinFalconer/device-ui-test.git"
+  },
+  "keywords": [
+    "device",
+    "test",
+    "performance",
+    "ui"
+  ],
+  "author": "Eoin Falconer Norigin Media <eoin.falconer@noriginmedia.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EoinFalconer/device-ui-test/issues"
+  },
+  "homepage": "https://github.com/EoinFalconer/device-ui-test#readme",
+  "dependencies": {
+    "fps": "0.0.3",
+    "jquery": "^3.2.1",
+    "pixi.js": "^4.5.6"
+  }
+}
